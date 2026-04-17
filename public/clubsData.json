@@ -1,0 +1,199 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Deepak Maurya",
+      "email": "deepak@college.com",
+      "password": "deepak123",
+      "role": "student"
+    },
+    {
+      "id": 2,
+      "name": "Deepak Maurya",
+      "email": "admin@college.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "name": "Arpit rajput",
+      "email": "arpit@college.com",
+      "password": "arpit123",
+      "role": "student"
+    }
+  ],
+  "technicalClubs": [
+    {
+      "id": 1,
+      "name": "CREATIVE CELL",
+      "description": "Focuses on design, UI/UX, and creative digital content.",
+      "fullDescription": "Creative Cell is dedicated to fostering design thinking and digital creativity among students. We conduct workshops on UI/UX design, graphic design, and digital marketing.",
+      "recruitmentOpen": true,
+      "events": ["Design Workshop", "Poster Competition", "Figma Tutorial"],
+      "members": 145,
+      "contact": "creative@college.com"
+    },
+    {
+      "id": 2,
+      "name": "E-CELL",
+      "description": "Promotes entrepreneurship and startup culture among students.",
+      "fullDescription": "E-Cell aims to nurture entrepreneurial spirit and provide mentorship to budding entrepreneurs. We organize pitch events, networking sessions, and startup showcases.",
+      "recruitmentOpen": false,
+      "events": ["Startup Pitch", "Business Quiz", "Mentor Talks"],
+      "members": 98,
+      "contact": "ecell@college.com"
+    },
+    {
+      "id": 3,
+      "name": "Google Developer Groups",
+      "description": "Community for developers to learn Google technologies.",
+      "fullDescription": "GDG at our college brings together developers interested in Google technologies. We conduct sessions on Flutter, Firebase, Cloud, and Web technologies.",
+      "recruitmentOpen": true,
+      "events": ["Flutter Workshop", "Cloud Session", "Web Dev Bootcamp"],
+      "members": 167,
+      "contact": "gdg@college.com"
+    },
+    {
+      "id": 4,
+      "name": "INNOGEEKS",
+      "description": "Encourages innovation and technical problem solving.",
+      "fullDescription": "InnoGeeks is a hub for tech innovators. We conduct hackathons, coding contests, and innovation challenges to push boundaries.",
+      "recruitmentOpen": false,
+      "events": ["Hackathon", "Coding Contest", "Innovation Challenge"],
+      "members": 132,
+      "contact": "innogeeks@college.com"
+    },
+    {
+      "id": 5,
+      "name": "Kinesis Technical Society",
+      "description": "Focuses on robotics, automation, and engineering projects.",
+      "fullDescription": "Kinesis is the go-to place for robotics enthusiasts. We build robots, participate in national competitions, and mentor junior members.",
+      "recruitmentOpen": true,
+      "events": ["Robotics Workshop", "Robot Showcase", "Automation Talk"],
+      "members": 87,
+      "contact": "kinesis@college.com"
+    },
+    {
+      "id": 6,
+      "name": "MLSA Kiet",
+      "description": "Microsoft Learn Student Ambassadors community.",
+      "fullDescription": "MLSA is Microsoft's official student community. We provide training on Azure, Office 365, and other Microsoft technologies.",
+      "recruitmentOpen": false,
+      "events": ["Azure Bootcamp", "Office 365 Tour", "Tech Talk"],
+      "members": 156,
+      "contact": "mlsa@college.com"
+    },
+    {
+      "id": 7,
+      "name": "Saekiet",
+      "description": "Technical club promoting engineering excellence.",
+      "fullDescription": "Saekiet promotes technical excellence through projects, workshops, and competitions in various engineering domains.",
+      "recruitmentOpen": true,
+      "events": ["Tech Talks", "Project Showcase", "Coding Workshop"],
+      "members": 124,
+      "contact": "saekiet@college.com"
+    },
+    {
+      "id": 8,
+      "name": "Technocrats",
+      "description": "Develops coding and software engineering skills.",
+      "fullDescription": "Technocrats is focused on improving coding skills. We conduct weekly coding sessions, DSA classes, and contest preparation.",
+      "recruitmentOpen": false,
+      "events": ["DSA Contest", "Weekly Coding", "Interview Prep"],
+      "members": 201,
+      "contact": "technocrats@college.com"
+    },
+    {
+      "id": 9,
+      "name": "DSDL",
+      "description": "Focuses on digital systems and design learning.",
+      "fullDescription": "DSDL helps students master digital circuit design, VLSI, and hardware programming through hands-on workshops.",
+      "recruitmentOpen": true,
+      "events": ["Circuit Design Workshop", "VLSI Talk", "Hardware Lab"],
+      "members": 76,
+      "contact": "dsdl@college.com"
+    }
+  ],
+  "culturalClubs": [
+    {
+      "id": 10,
+      "name": "Kiet Music Club",
+      "description": "Promotes singing and musical talent.",
+      "fullDescription": "Music Club is a platform for singers, instrumentalists, and music enthusiasts to perform and improve their skills.",
+      "recruitmentOpen": true,
+      "events": ["Open Mic", "Battle of Bands", "Acoustic Night"],
+      "members": 189,
+      "contact": "musicclub@college.com"
+    },
+    {
+      "id": 11,
+      "name": "TEDxKIET",
+      "description": "Organizes TED-style talks and idea sharing events.",
+      "fullDescription": "TEDx brings inspiring speakers and innovative ideas to campus. We host quarterly TED-style events with diverse speakers.",
+      "recruitmentOpen": false,
+      "events": ["TEDx Event", "Idea Showcase", "Speaker Series"],
+      "members": 234,
+      "contact": "tedx@college.com"
+    },
+    {
+      "id": 12,
+      "name": "Pragmatic Fashion Society",
+      "description": "Focuses on fashion shows and styling.",
+      "fullDescription": "Fashion Society celebrates style and creativity through fashion shows, workshops, and styling sessions.",
+      "recruitmentOpen": true,
+      "events": ["Fashion Walk", "Styling Workshop", "Design Challenge"],
+      "members": 112,
+      "contact": "fashion@college.com"
+    },
+    {
+      "id": 13,
+      "name": "kiet movie society",
+      "description": "For movie lovers and film discussions.",
+      "fullDescription": "Movie Society is for film enthusiasts. We organize movie screenings, film discussions, and documentary showcases.",
+      "recruitmentOpen": false,
+      "events": ["Movie Night", "Film Discussion", "Documentary Night"],
+      "members": 178,
+      "contact": "movies@college.com"
+    },
+    {
+      "id": 14,
+      "name": "EK PRAYASS",
+      "description": "Social and cultural initiative club.",
+      "fullDescription": "Ek Prayass focuses on social impact and community service. We conduct awareness campaigns and community projects.",
+      "recruitmentOpen": true,
+      "events": ["Social Campaign", "Community Drive", "Awareness Session"],
+      "members": 145,
+      "contact": "ekprayass@college.com"
+    },
+    {
+      "id": 15,
+      "name": "THE IMPECCABLES",
+      "description": "Dance and performance club.",
+      "fullDescription": "The Impeccables is a dance club for all dance forms. We perform at events and conduct dance workshops.",
+      "recruitmentOpen": false,
+      "events": ["Dance Battle", "Performance Show", "Dance Workshop"],
+      "members": 167,
+      "contact": "impeccables@college.com"
+    },
+    {
+      "id": 16,
+      "name": "Kavyanjali",
+      "description": "Poetry and literature club.",
+      "fullDescription": "Kavyanjali celebrates literature and poetry. We conduct poetry slams, book discussions, and creative writing workshops.",
+      "recruitmentOpen": true,
+      "events": ["Poetry Slam", "Book Discussion", "Creative Writing"],
+      "members": 98,
+      "contact": "kavyanjali@college.com"
+    },
+    {
+      "id": 17,
+      "name": "Spark Creations",
+      "description": "Creative arts and content creation club.",
+      "fullDescription": "Spark Creations is for artists and content creators. We conduct art competitions, workshops, and showcase creative works.",
+      "recruitmentOpen": false,
+      "events": ["Art Competition", "Workshop", "Art Showcase"],
+      "members": 134,
+      "contact": "spark@college.com"
+    }
+  ]
+}
