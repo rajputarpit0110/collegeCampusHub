@@ -46,7 +46,7 @@ export default function Dashboard() {
   return (
     <div
       className={`min-h-screen ${
-        isDark ? 'bg-gray-900' : 'bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50'
+        isDark ? 'bg-gray-1000' : 'bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50'
       }`}
     >
       {/* Hero Section */}
